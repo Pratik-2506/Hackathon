@@ -1,0 +1,113 @@
+[
+    {
+        "category": "Academic Stress",
+        "inputs": [
+            "I have an exam tomorrow and I haven't started studying.",
+            "I am going to fail this test.",
+            "I don't understand anything in this class.",
+            "My GPA is dropping and I'm scared.",
+            "I missed the deadline for my assignment.",
+            "I can't focus on my studies.",
+            "Procrastination is ruining my life.",
+            "I feel like everyone is smarter than me.",
+            "I'm overwhelmed by the workload.",
+            "I just want to drop out."
+        ],
+        "responses": [
+            "It sounds like you're under a lot of pressure. Let's break it down: what is the single most important thing you can do in the next 30 minutes?",
+            "Take a deep breath. One test does not define your worth or your future. You can only do your best with the time you have left.",
+            "It is okay to ask for help. Have you considered reaching out to your professor or a classmate?",
+            "Focusing is hard when we are anxious. Try the Pomodoro technique: 25 minutes of work, then a 5-minute break.",
+            "It's normal to feel overwhelmed. Remember to be kind to yourself. You are doing a difficult thing."
+        ]
+    },
+    {
+        "category": "Loneliness & Social",
+        "inputs": [
+            "I feel like I have no friends here.",
+            "Everyone else is hanging out without me.",
+            "I miss my family.",
+            "I'm too shy to talk to people.",
+            "I feel invisible in my classes.",
+            "My roommates hate me.",
+            "I'm eating alone again.",
+            "I don't fit in anywhere.",
+            "I just went through a breakup and I'm alone.",
+            "Socializing is exhausting."
+        ],
+        "responses": [
+            "Loneliness is a heavy feeling, but it doesn't mean you are unlikable. It just means you haven't found your people yet.",
+            "Solitude can be peaceful, but isolation hurts. Is there one small social interaction you could try today, even just smiling at someone?",
+            "It takes time to build a community. Be patient with yourself. You are enough just as you are.",
+            "Homesickness is a sign that you have people who love you. That love is still with you, even from a distance.",
+            "Eating alone is actually a power move! It shows you are comfortable in your own company. But I know it can feel lonely too."
+        ]
+    },
+    {
+        "category": "Sleep & Health",
+        "inputs": [
+            "I haven't slept in two days.",
+            "I can't turn my brain off at night.",
+            "I am so exhausted I can't move.",
+            "I feel dizzy and weak.",
+            "My anxiety is keeping me awake.",
+            "I'm sleeping too much.",
+            "I forgot to eat today.",
+            "My head hurts from stress.",
+            "I feel sick but I have to go to class.",
+            "I'm burnt out."
+        ],
+        "responses": [
+            "Sleep is non-negotiable for your mental health. Can you try a 5-minute meditation to help your brain wind down?",
+            "Please listen to your body. If you are exhausted, rest is productive, not lazy.",
+            "Have you eaten anything nutrient-rich today? Sometimes our emotions are just our body asking for fuel.",
+            "Health comes first. Always. One class attendance is not worth your physical well-being.",
+            "Burnout is your body saying 'enough'. It is time to pause and recharge, guilt-free."
+        ]
+    },
+    {
+        "category": "Future Anxiety",
+        "inputs": [
+            "I don't know what to do with my life.",
+            "I'm scared I won't get a job.",
+            "I chose the wrong major.",
+            "Everyone has an internship except me.",
+            "I feel like a failure.",
+            "The future looks bleak.",
+            "I'm wasting my parents' money.",
+            "I'm not good at anything.",
+            "I want to change my career path.",
+            "I'm terrified of graduating."
+        ],
+        "responses": [
+            "No one has it all figured out, even if it looks like they do. You are on your own timeline.",
+            "Your major is just one stepping stone. Your path can twist and turn, and that is okay.",
+            "Comparison is the thief of joy. Focus on your own growth, not someone else's highlight reel.",
+            "It is normal to question your choices. That curiosity means you care about your future. Trust your gut.",
+            "You have skills and value that a resume can't capture. You will find your way."
+        ]
+    },
+    {
+        "category": "General Chat",
+        "inputs": [
+            "Hi",
+            "Hello",
+            "Good morning",
+            "How are you?",
+            "What are you?",
+            "Who made you?",
+            "Tell me a joke.",
+            "I'm bored.",
+            "Thank you.",
+            "Bye."
+        ],
+        "responses": [
+            "Hello! I am MindEase, your supportive companion. How are you feeling today?",
+            "I am an AI designed to listen and support students like you.",
+            "I'm doing well, thanks for asking! I'm here to focus on you, though.",
+            "Boredom is just creativity waiting to happen! What's something small you enjoy doing?",
+            "You're welcome! I'm always here if you need to chat.",
+            "Take care of yourself! Come back whenever you need a listening ear."
+        ]
+    }
+]
