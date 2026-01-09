@@ -27,6 +27,7 @@ export default function Layout() {
         { label: 'Journal', path: '/journal', icon: BookOpen },
         { label: 'Garden', path: '/garden', icon: Sprout },
         { label: 'History', path: '/history', icon: BarChart2 },
+        { label: 'Help', path: '/resources', icon: Smile },
     ];
 
     return (

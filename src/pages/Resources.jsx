@@ -2,10 +2,14 @@ import { ExternalLink, Phone } from 'lucide-react';
 
 const RESOURCES = [
     {
-        category: "Emergency",
+        category: "Emergency & Government Support",
         items: [
-            { name: "988 Suicide & Crisis Lifeline", desc: "24/7, free and confidential support.", link: "tel:988", action: "Call 988" },
-            { name: "Crisis Text Line", desc: "Text HOME to 741741 to connect with a Crisis Counselor.", link: "sms:741741", action: "Text 741741" },
+            { name: "National Emergency Number", desc: "Police, Fire, Ambulance (All-in-One).", link: "tel:112", action: "Call 112" },
+            { name: "Ambulance (Medical Emergency)", desc: "Immediate medical assistance.", link: "tel:102", action: "Call 102" },
+            { name: "Tele MANAS (Mental Health)", desc: "24/7 Govt Mental Health Support.", link: "tel:14416", action: "Call 14416" },
+            { name: "Women's Helpline", desc: "For harassment/safety issues.", link: "tel:1091", action: "Call 1091" },
+            { name: "Anti-Ragging Helpline", desc: "Report ragging in colleges (UGC).", link: "tel:18001805522", action: "Call 1800-180-5522" },
+            { name: "Cyber Crime Helpline", desc: "Report online harassment/bullying.", link: "tel:1930", action: "Call 1930" },
         ]
     },
     {
